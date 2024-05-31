@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CollegeEnrollmentSystem.Application/1.0.0": {
+        "dependencies": {
+          "CollegeEnrollmentSystem.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CollegeEnrollmentSystem.Application.dll": {}
+        }
+      },
+      "CollegeEnrollmentSystem.Domain/1.0.0": {
+        "runtime": {
+          "CollegeEnrollmentSystem.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CollegeEnrollmentSystem.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CollegeEnrollmentSystem.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+/home/achi/Uni/design-patterns/midterm2/CollegeEnrollmentSystem.Domain/bin/Debug/net8.0/CollegeEnrollmentSystem.Domain.deps.json
+/home/achi/Uni/design-patterns/midterm2/CollegeEnrollmentSystem.Domain/bin/Debug/net8.0/CollegeEnrollmentSystem.Domain.dll
+/home/achi/Uni/design-patterns/midterm2/CollegeEnrollmentSystem.Domain/bin/Debug/net8.0/CollegeEnrollmentSystem.Domain.pdb
+/home/achi/Uni/design-patterns/midterm2/CollegeEnrollmentSystem.Domain/obj/Debug/net8.0/CollegeEnrollmentSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/achi/Uni/design-patterns/midterm2/CollegeEnrollmentSystem.Domain/obj/Debug/net8.0/CollegeEnrollmentSystem.Domain.AssemblyInfoInputs.cache
+/home/achi/Uni/design-patterns/midterm2/CollegeEnrollmentSystem.Domain/obj/Debug/net8.0/CollegeEnrollmentSystem.Domain.AssemblyInfo.cs
+/home/achi/Uni/design-patterns/midterm2/CollegeEnrollmentSystem.Domain/obj/Debug/net8.0/CollegeEnrollmentSystem.Domain.csproj.CoreCompileInputs.cache
+/home/achi/Uni/design-patterns/midterm2/CollegeEnrollmentSystem.Domain/obj/Debug/net8.0/CollegeEnrollmentSystem.Domain.dll
+/home/achi/Uni/design-patterns/midterm2/CollegeEnrollmentSystem.Domain/obj/Debug/net8.0/refint/CollegeEnrollmentSystem.Domain.dll
+/home/achi/Uni/design-patterns/midterm2/CollegeEnrollmentSystem.Domain/obj/Debug/net8.0/CollegeEnrollmentSystem.Domain.pdb
+/home/achi/Uni/design-patterns/midterm2/CollegeEnrollmentSystem.Domain/obj/Debug/net8.0/ref/CollegeEnrollmentSystem.Domain.dll

@@ -1,0 +1,15 @@
+/home/achi/Uni/design-patterns/midterm2/CollegeEnrollmentSystem.Application/obj/Debug/net8.0/CollegeEnrollmentSystem.Application.csproj.AssemblyReference.cache
+/home/achi/Uni/design-patterns/midterm2/CollegeEnrollmentSystem.Application/obj/Debug/net8.0/CollegeEnrollmentSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/achi/Uni/design-patterns/midterm2/CollegeEnrollmentSystem.Application/obj/Debug/net8.0/CollegeEnrollmentSystem.Application.AssemblyInfoInputs.cache
+/home/achi/Uni/design-patterns/midterm2/CollegeEnrollmentSystem.Application/obj/Debug/net8.0/CollegeEnrollmentSystem.Application.AssemblyInfo.cs
+/home/achi/Uni/design-patterns/midterm2/CollegeEnrollmentSystem.Application/obj/Debug/net8.0/CollegeEnrollmentSystem.Application.csproj.CoreCompileInputs.cache
+/home/achi/Uni/design-patterns/midterm2/CollegeEnrollmentSystem.Application/bin/Debug/net8.0/CollegeEnrollmentSystem.Application.deps.json
+/home/achi/Uni/design-patterns/midterm2/CollegeEnrollmentSystem.Application/bin/Debug/net8.0/CollegeEnrollmentSystem.Application.dll
+/home/achi/Uni/design-patterns/midterm2/CollegeEnrollmentSystem.Application/bin/Debug/net8.0/CollegeEnrollmentSystem.Application.pdb
+/home/achi/Uni/design-patterns/midterm2/CollegeEnrollmentSystem.Application/bin/Debug/net8.0/CollegeEnrollmentSystem.Domain.dll
+/home/achi/Uni/design-patterns/midterm2/CollegeEnrollmentSystem.Application/bin/Debug/net8.0/CollegeEnrollmentSystem.Domain.pdb
+/home/achi/Uni/design-patterns/midterm2/CollegeEnrollmentSystem.Application/obj/Debug/net8.0/CollegeE.B0C621A4.Up2Date
+/home/achi/Uni/design-patterns/midterm2/CollegeEnrollmentSystem.Application/obj/Debug/net8.0/CollegeEnrollmentSystem.Application.dll
+/home/achi/Uni/design-patterns/midterm2/CollegeEnrollmentSystem.Application/obj/Debug/net8.0/refint/CollegeEnrollmentSystem.Application.dll
+/home/achi/Uni/design-patterns/midterm2/CollegeEnrollmentSystem.Application/obj/Debug/net8.0/CollegeEnrollmentSystem.Application.pdb
+/home/achi/Uni/design-patterns/midterm2/CollegeEnrollmentSystem.Application/obj/Debug/net8.0/ref/CollegeEnrollmentSystem.Application.dll

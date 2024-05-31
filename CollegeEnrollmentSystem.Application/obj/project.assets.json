@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "CollegeEnrollmentSystem.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CollegeEnrollmentSystem.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CollegeEnrollmentSystem.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CollegeEnrollmentSystem.Domain/1.0.0": {
+      "type": "project",
+      "path": "../CollegeEnrollmentSystem.Domain/CollegeEnrollmentSystem.Domain.csproj",
+      "msbuildProject": "../CollegeEnrollmentSystem.Domain/CollegeEnrollmentSystem.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "CollegeEnrollmentSystem.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/achi/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/achi/Uni/design-patterns/midterm2/CollegeEnrollmentSystem.Application/CollegeEnrollmentSystem.Application.csproj",
+      "projectName": "CollegeEnrollmentSystem.Application",
+      "projectPath": "/home/achi/Uni/design-patterns/midterm2/CollegeEnrollmentSystem.Application/CollegeEnrollmentSystem.Application.csproj",
+      "packagesPath": "/home/achi/.nuget/packages/",
+      "outputPath": "/home/achi/Uni/design-patterns/midterm2/CollegeEnrollmentSystem.Application/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/achi/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/home/achi/Uni/design-patterns/midterm2/CollegeEnrollmentSystem.Domain/CollegeEnrollmentSystem.Domain.csproj": {
+              "projectPath": "/home/achi/Uni/design-patterns/midterm2/CollegeEnrollmentSystem.Domain/CollegeEnrollmentSystem.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
